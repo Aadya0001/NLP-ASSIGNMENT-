@@ -12,6 +12,10 @@ Visualization: Plotting a bar chart of the top 10 most frequent characters using
 
 
 
+
+
+
+
 Assignment 2: News Classification using TF-IDF and SVM
 
 This project builds a full machine learning workflow for classifying news articles. The main stages include:
